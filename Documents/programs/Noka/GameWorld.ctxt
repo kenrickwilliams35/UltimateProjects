@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameWorld\r\n
+comment2.params=
+comment2.target=Room\ getEntrance()
+comment3.params=
+comment3.target=java.util.HashMap\ getRooms()
+comment4.params=
+comment4.target=Room\ getTraderEntrance()
+numComments=5

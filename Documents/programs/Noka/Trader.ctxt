@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Trader
+comment1.params=name\ startingRoom
+comment1.target=Trader(java.lang.String,\ Room)
+comment2.params=player
+comment2.target=void\ getTrade(Player)
+comment3.params=name\ item
+comment3.target=void\ addItem(java.lang.String,\ Items)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=Room\ getCurrentRoom()
+comment6.params=room
+comment6.target=void\ setCurrentRoom(Room)
+comment7.params=direction
+comment7.target=void\ setMove(java.lang.String)
+comment8.params=
+comment8.target=void\ walk()
+numComments=9

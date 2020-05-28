@@ -1,0 +1,7 @@
+john
+480.0
+100.0
+70.0
+
+stick/50.0/0.0!killGauntlet/150.0/30.0!
+rightFront

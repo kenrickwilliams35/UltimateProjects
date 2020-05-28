@@ -1,0 +1,7 @@
+kdub
+500.0
+200.0
+50.0
+Vile/10.0/100.0!Potion/15.0/5.0!Blood/0.0/0.0!
+alienBlaster/600.0/20.0!stick/50.0/0.0!rifle/50.0/20.0!
+plaza

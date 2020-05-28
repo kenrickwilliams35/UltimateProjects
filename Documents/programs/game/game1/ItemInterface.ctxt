@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ItemInterface
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ ItemInteface\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getLongName()
+comment10.params=player
+comment10.target=void\ getBenefit(Player)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=float\ getWeight()
+comment4.params=
+comment4.target=float\ getVolume()
+comment5.params=
+comment5.target=float\ getValue()
+comment6.params=
+comment6.target=float\ getBuyValue()
+comment7.params=decorator
+comment7.target=void\ addDecorator(ItemInterface)
+comment8.params=
+comment8.target=boolean\ isContainer()
+comment9.params=item
+comment9.target=void\ addItem(ItemInterface)
+numComments=11

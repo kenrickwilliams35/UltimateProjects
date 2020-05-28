@@ -1,0 +1,6 @@
+dude
+500.0
+100.0
+
+stick/50.0/0.0!
+hailMary
